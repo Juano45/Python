@@ -44,3 +44,5 @@ if oneStep1 == 'LEFT':
     print("Attacked by trout\n Game Over.")  
 else:
   print("Fall into a hole.\n Game Over.")
+
+print("let me know your commits")
